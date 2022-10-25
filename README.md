@@ -22,9 +22,15 @@ My **[web portfolio (omecodes.xyz)](https://omecodes.xyz/)🧙‍♂️** can he
     </a>
     <a href="https://wakatime.com/@mangirootkit/">
         <img width="70%" src="https://github-readme-stats.vercel.app/api/wakatime?username=mangirootkit&hide_progress=false&layout=compact&custom_title=Wakatime%20last%20year%20Stats"
-            alt="Mangielijah's wakatime last year stats">
+            alt="Mangielijah's wakatime stats this week">
     </a>
 </div>
+
+<hr>
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Mangielijah&theme=onedark&margin-w=15&margin-h=15)](https://www.buymeacoffee.com/pantani)
 
 ---
 
@@ -49,12 +55,6 @@ My **[web portfolio (omecodes.xyz)](https://omecodes.xyz/)🧙‍♂️** can he
             alt="MangiElijah's LinkedIn">
     </a>
 </div>
-
-<hr>
-
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Mangielijah&theme=onedark&margin-w=15&margin-h=15)](https://www.buymeacoffee.com/pantani)
 
 <br>
 
