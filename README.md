@@ -1,4 +1,4 @@
-### Hi there 👋
+### Think It Build It 💙
 <!-- markdownlint-disable MD033 MD042-->
 
 # Hi there, I'm **[Mangi Elijah](https://omecodes.xyz)**! 👋
@@ -56,4 +56,4 @@ Full Stack Software Engineer ⚡️ I pride myself with delivering the best mobi
 
 <br>
 
-_Made with a lot of ❤️❤️ by **[@MangiElijah](https://github.com/Mangielijah)**_
+_Made with a lot of 💚❤️💛 by **[@MangiElijah](https://github.com/Mangielijah)**_
