@@ -5,8 +5,6 @@
 
 Full Stack Software Engineer ⚡️ I pride myself with delivering the best mobile and web experiences to cross-platform applications with languages like Flutter/Dart, and Javascript/Node.JS, in both development and visual quality, while adding values and sharing skills. .
 
-My **[web portfolio (omecodes.xyz)](https://omecodes.xyz/)🧙‍♂️** can help you understand my career and professional trajectory.
-
 ---
 
 ## **📊 Stats**
@@ -21,7 +19,7 @@ My **[web portfolio (omecodes.xyz)](https://omecodes.xyz/)🧙‍♂️** can he
             alt="Mangielijah's Github commit streak">
     </a>
     <a href="https://wakatime.com/@mangirootkit/">
-        <img width="70%" src="https://github-readme-stats.vercel.app/api/wakatime?username=mangirootkit&hide_progress=false&layout=compact&custom_title=Wakatime%20last%20year%20Stats"
+        <img width="70%" src="https://github-readme-stats.vercel.app/api/wakatime?username=mangirootkit&hide_progress=false&layout=compact&custom_title=Wakatime%20this%20week%20Stats"
             alt="Mangielijah's wakatime stats this week">
     </a>
 </div>
