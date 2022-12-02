@@ -18,10 +18,10 @@ Full Stack Software Engineer ⚡️ I pride myself with delivering the best mobi
         <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mangielijah&theme=monokai"
             alt="Mangielijah's Github commit streak">
     </a>
-    <a href="https://wakatime.com/@mangirootkit/">
+<!--     <a href="https://wakatime.com/@mangirootkit/">
         <img width="70%" src="https://github-readme-stats.vercel.app/api/wakatime?username=mangirootkit&hide_progress=false&layout=compact&custom_title=Wakatime%20Last%20Week%20Stats"
             alt="Mangielijah's wakatime last week stats">
-    </a>
+    </a> -->
 </div>
 
 <hr>
